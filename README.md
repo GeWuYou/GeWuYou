@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building modu
 
 ### 📫 How to reach me
 
-- ✉️ Email: `gewuyou1024@gmail.com` *(replace with your real email if public)*
+- ✉️ Email: `gewuyou1024@gmail.com`
 - 🌐 Blog: Coming Soon...
 - 🏡 Based in: Asia / Singapore / China
 
