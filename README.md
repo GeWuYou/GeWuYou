@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building modu
 
 - ✉️ Email: `gewuyou1024@gmail.com`
 - 🌐 Blog: Coming Soon...
-- 🏡 Based in: Asia / Singapore / China
+- 🏡 Based in: Asia / China
 
 ---
 
