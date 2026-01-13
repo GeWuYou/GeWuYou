@@ -36,9 +36,21 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building modu
 
 ### 📈 GitHub Stats / GitHub 统计
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeWuYou&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GeWuYou's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GeWuYou&show_icons=true&theme=radical&locale=cn)](https://github-readme-stats-fast.vercel.app)
 
-[![GeWuYou's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeWuYou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeWuYou&layout=donut&theme=radical&locale=cn)](https://github-readme-stats-fast.vercel.app)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GeWuYou&theme=radical&locale=zh_Hans)](https://git.io/streak-stats)
+
+### 📌 Pinned Repositories / 精选项目
+
+[![forgeboot](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=forgeboot&theme=radical)](https://github.com/GeWuYou/forgeboot)
+
+[![gewuyou-tutorial](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=gewuyou-tutorial&theme=radical)](https://github.com/GeWuYou/gewuyou-tutorial)
+
+[![GFramework](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=GFramework&theme=radical)](https://github.com/GeWuYou/GFramework)
+
+[![Slay-the-Spire-Like](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=Slay-the-Spire-Like&theme=radical)](https://github.com/GeWuYou/Slay-the-Spire-Like)
 
 ---
 
