@@ -44,9 +44,11 @@
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeWuYou&layout=donut&theme=radical&locale=cn" />
 </p>
-
 <p>
-  <img src="https://streak-stats.demolab.com?user=GeWuYou&short_numbers=true&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GeWuYou&theme=neon" />
+</p>
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=GeWuYou" />
 </p>
 
 ---
