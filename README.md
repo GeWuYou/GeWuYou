@@ -1,78 +1,95 @@
-## 👋 Hi there, I'm GeWuYou!
+<h2>
+  👋 Hi there, I'm GeWuYou
+  <img align="right" src="https://komarev.com/ghpvc/?username=GeWuYou&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" />
+</h2>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building modular systems, exploring modern DevOps practices, and writing clean, maintainable code. Whether it's backend services with Kotlin & Spring Boot, or scalable infrastructure with Docker, I enjoy solving complex problems with elegant solutions.
-
-欢迎来到我的 GitHub 主页！我是一名热爱编程的开发者，专注于构建模块化系统、探索现代 DevOps 实践，并追求简洁、可维护的代码。无论是 Kotlin + Spring Boot 的后端服务，还是基于 Docker的云原生基础设施，我都乐于用优雅的方式解决复杂问题。
-
----
-
-### 🚀 About Me / 关于我
-
-- 🔧 Focused on **Microservices**, **Spring Boot**, **DevOps**, and **Cloud-Native** development  
-  专注于微服务、Spring Boot、DevOps 和云原生开发  
-- 🧱 Architecting scalable systems with **Kotlin**, **Spring Cloud**, **Redis**, **PostgreSQL**  
-  擅长用 Kotlin、Spring Cloud、Redis、PostgreSQL 构建可扩展系统  
-- 🐳 DevOps Enthusiast: proficient in **Docker** and **docker-compose**
-  DevOps 爱好者，熟练掌握 Docker和docker-compose
-- 🎮 Game Developer Hobbyist using **Godot (C#)** for 2D projects  
-  业余喜欢用 Godot（C#）做 2D 游戏开发  
-- 🧠 Always learning: exploring **Security**, **Caching**, and **CI/CD pipelines**  
-  持续学习中，关注安全、缓存和 CI/CD 等领域
+<p>
+  A passionate developer focused on <b>modular systems</b>, <b>Spring Boot</b>, and <b>DevOps</b>. <br/>
+  热爱构建模块化系统，专注 Spring Boot 与 DevOps，用优雅的方式解决复杂问题。
+</p>
 
 ---
 
-### 🛠️ Tech Stack / 技术栈
+## 🚀 About Me | 关于我
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+* 🔧 **Microservices / Spring Boot / Cloud-Native**
+* 🧱 Kotlin + Spring Cloud + Redis + PostgreSQL
+* 🐳 DevOps enthusiast, daily use of Docker & docker-compose
+* 🎮 Godot (C#) 2D game developer (hobby)
+* 🧠 Long-term learner: Security, Caching, CI/CD
 
 ---
 
-### 📈 GitHub Stats / GitHub 统计
+## 🛠️ Tech Stack | 技术栈
 
-[![GeWuYou's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GeWuYou&show_icons=true&theme=radical&locale=cn)](https://github-readme-stats-fast.vercel.app)
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeWuYou&layout=donut&theme=radical&locale=cn)](https://github-readme-stats-fast.vercel.app)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GeWuYou&theme=radical&locale=zh_Hans)](https://git.io/streak-stats)
-
-### 📌 Pinned Repositories / 精选项目
-
-[![forgeboot](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=forgeboot&theme=radical)](https://github.com/GeWuYou/forgeboot)
-
-[![gewuyou-tutorial](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=gewuyou-tutorial&theme=radical)](https://github.com/GeWuYou/gewuyou-tutorial)
-
-[![GFramework](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=GFramework&theme=radical)](https://github.com/GeWuYou/GFramework)
-
-[![Slay-the-Spire-Like](https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=Slay-the-Spire-Like&theme=radical)](https://github.com/GeWuYou/Slay-the-Spire-Like)
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-### 📫 How to reach me / 联系我
+## 📈 GitHub Stats | 统计
 
-- ✉️ Email: `gewuyou1024@gmail.com`
-- 🌐 [Tutorial](https://github.com/GeWuYou/gewuyou-tutorial)
-- 🏡 Location: Asia / China
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GeWuYou&show_icons=true&theme=radical&locale=cn" />
+</p>
 
----
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeWuYou&layout=donut&theme=radical&locale=cn" />
+</p>
 
-### ✨ Fun Facts / 有趣的事实
-
-- 🎮 I love playing games and enjoy analyzing their design  
-  我热爱玩游戏，也喜欢研究其中的机制和设计  
-- 📦 I'm passionate about building microservices and encapsulating starter modules  
-  热衷于微服务架构与封装可复用的 Spring Boot Starter 组件  
-- 🛠️ I enjoy coding in both Kotlin and C#, and creating clean abstractions  
-  喜欢用 Kotlin 和 C# 编写模块化、优雅的业务逻辑  
-- 🌟 My dream is to build a **great software**, a **fun game**, and write **high-quality tutorials**  
-  我的梦想是开发出一款**好用的软件**、**好玩的游戏**，并编写**详细易懂的教程**
+<p>
+  <img src="https://streak-stats.demolab.com?user=GeWuYou&short_numbers=true&theme=radical" />
+</p>
 
 ---
 
-_Thanks for stopping by! / 感谢你的浏览！_ 😊
+## 📌 Pinned Projects | 精选项目
+
+<p>
+  <a href="https://github.com/GeWuYou/forgeboot">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=forgeboot&theme=radical" />
+  </a>
+  <a href="https://github.com/GeWuYou/gewuyou-tutorial">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=gewuyou-tutorial&theme=radical" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/GeWuYou/GFramework">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=GFramework&theme=radical" />
+  </a>
+  <a href="https://github.com/GeWuYou/Slay-the-Spire-Like">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GeWuYou&repo=Slay-the-Spire-Like&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📫 Contact | 联系我
+
+* ✉️ Email: `gewuyou1024@gmail.com`
+* 🌐 Tutorials: [https://github.com/GeWuYou/gewuyou-tutorial](https://github.com/GeWuYou/gewuyou-tutorial)
+* 🏡 Location: Asia / China
+
+---
+
+## ✨ Fun Facts | 有趣的事
+
+* 🎮 Love games and analyzing their systems
+* 📦 Enjoy building reusable Spring Boot starters
+* 🛠️ Kotlin & C# dual-stack developer
+* 🌟 Dream: great software · fun games · high-quality tutorials
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by. 感谢你的浏览 😊</i>
+</p>
