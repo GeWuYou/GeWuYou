@@ -1,6 +1,7 @@
 <h2>
   👋 Hi there, I'm GeWuYou
-  <img align="right" src="https://komarev.com/ghpvc/?username=GeWuYou&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" />
+  <img align="right"
+       src="https://komarev.com/ghpvc/?username=GeWuYou&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" />
 </h2>
 
 <p>
@@ -10,9 +11,16 @@
 
 ---
 
+<p>
+  <img src="https://wakatime.com/badge/user/f7208e67-4981-44f7-b4e7-9c8689b2edb1.svg" />
+</p>
+
+---
+
 ## 🚀 About Me | 关于我
 
 * 🔧 **Microservices / Spring Boot / Cloud-Native**
+* ☕ **Java / Kotlin / C#** 主力开发
 * 🧱 Kotlin + Spring Cloud + Redis + PostgreSQL
 * 🐳 DevOps enthusiast, daily use of Docker & docker-compose
 * 🎮 Godot (C#) 2D game developer (hobby)
@@ -23,10 +31,19 @@
 ## 🛠️ Tech Stack | 技术栈
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
@@ -40,16 +57,18 @@
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=GeWuYou&show_icons=true&theme=neon&locale=cn" />
 </p>
+
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeWuYou&layout=donut&theme=neon&locale=cn" />
 </p>
+
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GeWuYou&theme=neon&locale=cn" />
 </p>
+
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=GeWuYou&langs_count=16&layout=compact&theme=neon" />
 </p>
-
 
 ---
 
@@ -78,7 +97,7 @@
 ## 📫 Contact | 联系我
 
 * ✉️ Email: `gewuyou1024@gmail.com`
-* 🌐 Tutorials: [https://github.com/GeWuYou/gewuyou-tutorial](https://github.com/GeWuYou/gewuyou-tutorial)
+* 🌐 Tutorials: <https://github.com/GeWuYou/gewuyou-tutorial>
 * 🏡 Location: Asia / China
 
 ---
@@ -87,7 +106,7 @@
 
 * 🎮 Love games and analyzing their systems
 * 📦 Enjoy building reusable Spring Boot starters
-* 🛠️ Kotlin & C# dual-stack developer
+* 🛠️ Java / Kotlin / C# 多语言实践者
 * 🌟 Dream: great software · fun games · high-quality tutorials
 
 ---
