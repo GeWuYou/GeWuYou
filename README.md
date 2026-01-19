@@ -40,16 +40,16 @@
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=GeWuYou&show_icons=true&theme=neon&locale=cn" />
 </p>
-
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeWuYou&layout=donut&theme=neon&locale=cn" />
 </p>
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GeWuYou&theme=neon" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GeWuYou&theme=neon&locale=cn" />
 </p>
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=GeWuYou?langs_count=15?layout=compact&theme=neon" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=GeWuYou&langs_count=16&layout=compact&theme=neon" />
 </p>
+
 
 ---
 
